@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarvaneh - Currently work for a power 5 collegiate sports conference and recently got into coding and tech. 
+- 👋 Hi, I’m @sarvaneh - Currently work for a power 5 collegiate sports conference doing data & technology. 
 - 👀 I’m interested in... data and analytics, probability modeling, AI and ML, Cybersecurity, and devops. 
 - 🌱 I’m currently learning... R, SQL, and Tableau with Google. Building dashboards with Sigma and Snowflake.   
 - 💞️ I’m looking to collaborate on... Anything - I love learning new things and expanding my knowledge. I want to leverage ML and AI to work more efficiently.
